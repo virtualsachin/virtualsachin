@@ -10,6 +10,7 @@
   / __|   __ _    __    | |_    (_)     _ _          
   \__ \  / _` |  / _|   | ' \   | |    | ' \         
   |___/  \__,_|  \__|_  |_||_|  |_|    |_||_|        
+```
 
 # Principal Architect | AI-Driven Infrastructure Leader
 
@@ -58,4 +59,3 @@
 <div align="center">
   <sub>Architecture and decisions: mine. Debugging sessions at odd hours: mine. — Sachin</sub>
 </div>
-```
