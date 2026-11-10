@@ -25,7 +25,8 @@
 **2011 → The DC Era**: Built 2 Tier-3 Data Centers from empty warehouses. PAC thermal management, MP-BGP IPv6, Linux P2V migrations. Nobody taught me how.
 **2014 → Security Layer**: Cisco ASA → Palo Alto App-ID. iRules on F5 LTM. Netmiko automation.
 **2017 → SDDC & SDN**: VMware NSX, HCX live migrations, GENEVE vs VXLAN debates at 2am, Arista OVSDB bridges.
-**2023 → Now**: Azure Enterprise Landing Zones + Agentic AI. Stateful circuit breakers. Vector RAG. Edge inference on Cloudflare Workers AI.
+**2022–2026 → Enterprise Cloud Scale**: Associate Director — Azure Enterprise Landing Zones (CAF), DevSecFinOps software factory ($47k/mo automated cost reduction), dual ExpressRoute BGP Local-Pref traffic engineering.
+**2026 → Director & Agentic AI**: Promoted to Director — Cloud & Infrastructure Architecture & Principal Agentic AI Architect. Sovereign Agentic Fleet, provider-neutral multi-agent orchestration, stateful circuit breakers, vector RAG, and edge inference.
 
 *Complexity is the Enemy. Always.*
 
