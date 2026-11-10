@@ -7,8 +7,7 @@
 
 # Hi, I'm Sachin Kumar Sharma 👋
 
-> **Principal Agentic AI Architect**
-> *Associate Director — Cloud & Infrastructure Architecture*
+> **Director — Cloud & Infrastructure Architecture** | **Principal Agentic AI Architect**
 > 20+ years. WiMAX rooftops in Delhi → Two Tier-3 DCs built from dust → VMware SDDC → Azure Landing Zones → Sovereign Agentic AI Systems.
 > *Building "Digital Cathedrals" of code, cloud, and cognition.*
 
