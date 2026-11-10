@@ -7,8 +7,9 @@
 
 # Hi, I'm Sachin Kumar Sharma 👋
 
-> **Associate Director — Enterprise Cloud & AI Advisory**
-> 18+ years. WiMAX rooftops in Delhi → Two Tier-3 DCs built from dust → VMware SDDC → Azure Landing Zones → Agentic AI on the edge.
+> **Principal Agentic AI Architect**
+> *Associate Director — Cloud & Infrastructure Architecture*
+> 20+ years. WiMAX rooftops in Delhi → Two Tier-3 DCs built from dust → VMware SDDC → Azure Landing Zones → Sovereign Agentic AI Systems.
 > *Building "Digital Cathedrals" of code, cloud, and cognition.*
 
 [![Twitter/X](https://img.shields.io/badge/@virtualSachIN-%23000000.svg?style=flat&logo=x&logoColor=white)](https://x.com/virtualSachIN)
@@ -36,11 +37,11 @@ I needed to become someone worth choosing, so I moved alone to Jaipur — call c
 
 | Metric | Value |
 |---|---|
-| ⏱️ Years in infrastructure | **18+** |
-| 🏢 Employers across 3 eras | **6** (HCL → Spectranet → Net4 → Wipro → IBM → NTT Data → Now) |
+| ⏱️ Years in infrastructure | **20+** |
+| 🏢 Employers across 3 eras | **7** (Ericsson/HCL → Spectranet → Net4 → Wipro → IBM → NTT Data → Kyndryl) |
 | 🏗️ Tier-3 DCs built from scratch | **2** |
 | ☁️ VMs migrated to cloud | **1,000s** (HCX bulk live, zero downtime) |
-| 🤖 AI agents in production | **3** (Digital Twin, Circuit Breaker, Cost Router) |
+| 🤖 AI systems in production | **3** (AI Digital Twin, Sovereign Agentic Fleet, Autonomous Harness OS) |
 | 🌐 BGP ASNs configured | More than I can count. Fewer incidents than you'd expect. |
 
 ---
@@ -66,11 +67,11 @@ I needed to become someone worth choosing, so I moved alone to Jaipur — call c
 
 ---
 
-### 🛠️ Featured Open Source Repositories
+### 🛠️ Featured Open Source Repositories & Systems
 
-- ⚡ **[agentic-circuit-breaker](https://github.com/virtualsachin/agentic-circuit-breaker)**: Zero-dependency TypeScript stateful circuit breaker pattern engineered for Agentic AI workflows and LLM API routing. No deps. No drama.
-- 💰 **[llm-cost-router](https://github.com/virtualsachin/llm-cost-router)**: BGP-inspired *Local Preference* routing engine for multi-agent LLM cost optimization and cascading model fallback.
-- 🏗️ **[VMware-SDDC-LAB](https://github.com/virtualsachin/VMware-SDDC-LAB)**: Infrastructure-as-code Ansible automation pipeline for deploying a full nested VMware SDDC & NSX-T lab. The playbook I wish existed in 2017.
+- 🌐 **[virtualsach.in (Portfolio)](https://github.com/virtualsachin/portfolio)**: Edge-native cognitive portfolio and AI Digital Twin. Built on Astro v5 SSR, Cloudflare Workers AI (`llama-3.1-8b`), on-device WebGPU (`Gemma-2` / `Whisper-39M`), D1 vector RAG, and live telemetry.
+- ⚡ **[virtual-infra](https://github.com/virtualsachin/virtual-infra)**: Sovereign Datacenter & Fleet Platform. 16/16 bare-metal endpoints: Proxmox VE 9.2.26, 3-node Talos Linux Kubernetes cluster, MikroTik BGP routing, RP1 Edge Vault, and automated power governance.
+- 🧬 **[virtual-kernel](https://github.com/virtualsachin/virtual-kernel)**: Provider-neutral Autonomous Agent Harness OS. Clean-room DLP airgap, SQLite WAL/FTS5 knowledge indexing, and autonomous multi-agent quota harvesting.
 
 ---
 
