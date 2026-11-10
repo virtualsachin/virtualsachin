@@ -19,7 +19,7 @@
 
 ### 🧭 The Journey
 
-**2004 → First Principles**: B.Sc. in Mathematics → late-night OSPF & EIGRP labs on Cisco 2600 routers until 3 AM → Ericsson telecom ops → HCL Infosystems (deployed on-site at Artemis Hospital, Gurgaon) running 24×7 Cisco ASA 5510 firewalls where network uptime meant patient safety.
+**2004 → First Principles**: B.Sc. in Mathematics → civil services (UPSC / IAS) discipline pivoted to raw computing & builder mindset → late-night OSPF & EIGRP labs on Cisco 2600 routers until 3 AM → Ericsson telecom ops → HCL Infosystems (deployed on-site at Artemis Hospital, Gurgaon) running 24×7 Cisco ASA 5510 firewalls where network uptime meant patient safety.
 
 **2009 → Iron Age**: Climbing Delhi rooftops in 45°C heat aligning WiMAX antennas by hand (-82 dBm / 12 dB SNR). Learning BGP the hard way.
 **2011 → The DC Era**: Built 2 Tier-3 Data Centers from empty warehouses. PAC thermal management, MP-BGP IPv6, Linux P2V migrations. Nobody taught me how.
