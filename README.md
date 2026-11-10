@@ -19,8 +19,7 @@
 
 ### 🧭 The Journey
 
-In 2006 I was selling credit cards door-to-door. Literally. Not metaphorically.
-I needed to become someone worth choosing, so I moved alone to Jaipur — call center nights, English class mornings, CCNA labs at midnight.
+**2004 → First Principles**: B.Sc. in Mathematics → late-night OSPF & EIGRP labs on Cisco 2600 routers until 3 AM → Ericsson telecom ops & hospital-grade Cisco ASA 5510 firewall cutovers where network uptime meant patient safety.
 
 **2009 → Iron Age**: Climbing Delhi rooftops in 45°C heat aligning WiMAX antennas by hand (-82 dBm / 12 dB SNR). Learning BGP the hard way.
 **2011 → The DC Era**: Built 2 Tier-3 Data Centers from empty warehouses. PAC thermal management, MP-BGP IPv6, Linux P2V migrations. Nobody taught me how.
