@@ -72,6 +72,7 @@
 - 🏛️ **[Flagship 2026 Essay: State of Agentic Infrastructure](https://virtualsach.in/blog/2026-11-state-of-agentic-infrastructure-2026/)**: Why autonomous AI is a distributed systems problem, mapping BGP routing, BFD failover, and NSX microsegmentation to multi-agent control planes.
 - 🌐 **[virtualsach.in (Capability Portfolio & Open Engineering Lab)](https://github.com/virtualsachin/portfolio)**: Edge-native cognitive platform on Astro SSR, Cloudflare Workers AI (`llama-3.1-8b`), on-device WebGPU (`FunctionGemma` / `Whisper`), D1 vector RAG, and interactive systems simulators.
 - 🖥️ **[VMware-SDDC-LAB](https://github.com/virtualsachin/VMware-SDDC-LAB)**: 1-Click Zero-Touch nested VMware vSphere, vSAN, and NSX-T deployment engine powered by declarative Ansible playbooks and `ovftool`.
+- ☁️ **[oci-always-free-secure-lab](https://github.com/virtualsach/oci-always-free-secure-lab)**: Declarative Terraform reference architecture for an Always-Free Oracle Cloud Infrastructure (OCI) secure enclave with Bastion Service, KMS Software Vault, and least-privilege NSGs.
 - 🤖 **[Machine-Readable Profile (`/llms.txt` & `/resume.json`)](https://virtualsach.in/llms.txt)**: Structured context index and JSON capability schema designed for AI research agents and peer architecture discovery.
 
 ---
