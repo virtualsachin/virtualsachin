@@ -1,0 +1,45 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+cd "$ROOT"
+
+FAST=0
+NO_PRECOMMIT=0
+CHANGED=0
+
+while [[ $# -gt 0 ]]; do
+  case "$1" in
+    --fast)
+      FAST=1
+      shift
+      ;;
+    --no-precommit)
+      NO_PRECOMMIT=1
+      shift
+      ;;
+    --changed)
+      CHANGED=1
+      shift
+      ;;
+    -h|--help)
+      echo "Usage: bin/verify [--fast] [--no-precommit] [--changed]"
+      exit 0
+      ;;
+    *)
+      echo "Unknown option: $1" >&2
+      echo "Usage: bin/verify [--fast] [--no-precommit] [--changed]" >&2
+      exit 64
+      ;;
+  esac
+done
+
+echo "==> Running profile README contract tests"
+python3 -m unittest discover -s tests -v
+
+if command -v gitleaks >/dev/null 2>&1; then
+  echo "==> Running gitleaks secret scan"
+  gitleaks dir "$ROOT" --no-banner
+else
+  echo "==> gitleaks not installed; skipping secret scan"
+fi
