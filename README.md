@@ -13,6 +13,7 @@
 [![Portfolio](https://img.shields.io/badge/virtualsach.in-1F6FEB?style=flat&logo=cloudflare&logoColor=white)](https://virtualsach.in)
 [![Flagship Essay](https://img.shields.io/badge/State_of_Agentic_Infra_'26-10B981?style=flat)](https://virtualsach.in/blog/2026-11-state-of-agentic-infrastructure-2026/)
 [![llms.txt](https://img.shields.io/badge/llms.txt-06B6D4?style=flat)](https://virtualsach.in/llms.txt)
+[![llms-full.txt](https://img.shields.io/badge/llms--full.txt-8B5CF6?style=flat)](https://virtualsach.in/llms-full.txt)
 [![Twitter/X](https://img.shields.io/badge/@virtualSachIN-%23000000.svg?style=flat&logo=x&logoColor=white)](https://x.com/virtualSachIN)
 [![Email](https://img.shields.io/badge/sachin@virtualsach.in-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sachin@virtualsach.in)
 
@@ -27,16 +28,19 @@
 **2014 → Multi-Vendor Security**: Wipro Technical Lead — Cisco ACE to F5 LTM iRules migrations, Palo Alto App-ID, Checkpoint, and Python Netmiko automation.
 **2017 → Hybrid Cloud & SDN**: IBM & Enterprise Systems Integration — VMware NSX-V/T, HCX zero-IP-change live migrations (500+ workloads), Arista 7050SX OVSDB hardware VTEPs, and Ansible Zero-Touch SDDC factories.
 **2022–2026 → Enterprise Cloud Scale**: Associate Director — Multi-Region Azure Enterprise Landing Zones (CAF) across 45+ subscriptions, DevSecFinOps software factory (`$47k/mo` automated cost containment via Checkov & Infracost PR gates), and dual ExpressRoute BGP Local-Pref traffic engineering.
-**2026 → Director & Agentic Infrastructure**: Promoted to Director — Cloud & Infrastructure Architecture & Principal Agentic AI Architect. Architecting Sovereign Agentic AI fleets, 16-node Proxmox/Talos Linux Kubernetes clusters, stateful semantic circuit breakers, vector RAG, and edge inference runtimes.
+**2026 → Director & Agentic Infrastructure**: Promoted to Director — Cloud & Infrastructure Architecture & Principal Agentic AI Architect. Architecting Sovereign Agentic AI fleets, 18-profile two-super-pool token routers, 16-node Proxmox/Talos Linux Kubernetes clusters, stateful semantic circuit breakers, vector RAG, and edge/on-device NPU inference runtimes.
 
 *Complexity is the Enemy. Always.*
 
 ---
 
-### 📊 Verified Production Outcomes (Proof Over Claims)
+### 📊 Verified Production Outcomes (Proof Over Claims — 16 Blueprints)
 
 | Metric | Production Outcome | Architectural Blueprint |
 |---|---|---|
+| 🎛️ **Super-Pool Token Routing** | **18 Profiles (`paid_pro` / `jio_pro`) & 5x Slot Velocity** (`74%` frontier quota saved) | [Two-Super-Pool Token Routing & Multi-Slot Control Tower](https://virtualsach.in/projects/2026-11-superpool-agent-harness/) |
+| 📱 **On-Device Mobile NPU AI** | **Sub-15ms Local Tool Dispatch** (`100%` offline NPU + fail-closed Shield) | [Edge-to-Pocket Sovereign AI & Shield Gateway](https://virtualsach.in/projects/2026-11-on-device-npu-agent-runtime/) |
+| 🚀 **Zero-Cloud-Tax CI Factory** | **Sub-8s ZFS Warm-Snapshot Rollback** (`100%` hosted CI ceiling eliminated) | [Proxmox VE Ephemeral Runners & ZFS Snapshots](https://virtualsach.in/projects/2026-11-zfs-ephemeral-ci-factory/) |
 | 🛡️ **Cloud Spend Contained** | **$47,000/mo** caught pre-deployment in `<70s` | [Automated DevSecFinOps PR Gate](https://virtualsach.in/projects/devsecfinops-factory/) |
 | ☁️ **Enterprise Cloud Scale** | **45+ Subscriptions & 12,000+ VMs** (`99.995%` availability) | [Azure Landing Zones & Dual ExpressRoute BGP](https://virtualsach.in/projects/2024-06-azure-landing-zones-bgp/) |
 | ⚡ **Agentic Runtime SLA** | **99.94% Availability** & **68% lower token burn** | [Stateful Circuit Breakers for AI Systems](https://virtualsach.in/projects/2026-01-agentic-circuit-breakers/) |
@@ -70,16 +74,16 @@
 ### 🛠️ Featured Public Systems & Architectural Blueprints
 
 - 🏛️ **[Flagship 2026 Essay: State of Agentic Infrastructure](https://virtualsach.in/blog/2026-11-state-of-agentic-infrastructure-2026/)**: Why autonomous AI is a distributed systems problem, mapping BGP routing, BFD failover, and NSX microsegmentation to multi-agent control planes.
-- 🌐 **[virtualsach.in (Capability Portfolio & Open Engineering Lab)](https://github.com/virtualsachin/portfolio)**: Edge-native cognitive platform on Astro SSR, Cloudflare Workers AI (`llama-3.1-8b`), on-device WebGPU (`FunctionGemma` / `Whisper`), D1 vector RAG, and interactive systems simulators.
+- 🌐 **[virtualsach.in (Capability Portfolio & Open Engineering Lab)](https://github.com/virtualsachin/portfolio)**: Edge-native cognitive platform on Astro 7 SSR, Cloudflare Workers AI (`Llama 3.3 70B` / `Llama 4 Scout` cascade + Stage-2 BGE neural reranking), on-device WebGPU (`FunctionGemma` / `Whisper`), 816-chunk Vectorize v2 & D1 RAG, and interactive systems simulators.
 - 🖥️ **[VMware-SDDC-LAB](https://github.com/virtualsachin/VMware-SDDC-LAB)**: 1-Click Zero-Touch nested VMware vSphere, vSAN, and NSX-T deployment engine powered by declarative Ansible playbooks and `ovftool`.
 - ☁️ **[oci-always-free-secure-lab](https://github.com/virtualsach/oci-always-free-secure-lab)**: Declarative Terraform reference architecture for an Always-Free Oracle Cloud Infrastructure (OCI) secure enclave with Bastion Service, KMS Software Vault, and least-privilege NSGs.
-- 🤖 **[Machine-Readable Profile (`/llms.txt` & `/resume.json`)](https://virtualsach.in/llms.txt)**: Structured context index and JSON capability schema designed for AI research agents and peer architecture discovery.
+- 🤖 **[Machine-Readable Profile (`/llms.txt`, `/llms-full.txt` & `/resume.json`)](https://virtualsach.in/llms.txt)**: Concise index, complete 16-blueprint / 131-field-note architectural corpus (`/llms-full.txt`), and JSON capability schema designed for AI research agents and peer architecture discovery.
 
 ---
 
 ### 🌐 Links & Contact
 
-| 🌐 **Digital Twin Portfolio** | 📜 **Field Notes (125 Posts)** | 🐦 **Twitter / X** | ✉️ **Email** |
+| 🌐 **Digital Twin Portfolio** | 📜 **Field Notes (131 Posts)** | 🐦 **Twitter / X** | ✉️ **Email** |
 | :---: | :---: | :---: | :---: |
 | [**virtualsach.in**](https://virtualsach.in) | [**virtualsach.in/blog**](https://virtualsach.in/blog/) | [**@virtualSachIN**](https://x.com/virtualSachIN) | [**sachin@virtualsach.in**](mailto:sachin@virtualsach.in) |
 

@@ -67,7 +67,11 @@ class TestProfileReadme(unittest.TestCase):
         for required_url in (
             "https://virtualsach.in",
             "https://virtualsach.in/llms.txt",
+            "https://virtualsach.in/llms-full.txt",
             "https://virtualsach.in/blog/",
+            "https://virtualsach.in/projects/2026-11-superpool-agent-harness/",
+            "https://virtualsach.in/projects/2026-11-on-device-npu-agent-runtime/",
+            "https://virtualsach.in/projects/2026-11-zfs-ephemeral-ci-factory/",
         ):
             with self.subTest(required_url=required_url):
                 self.assertIn(required_url, self.readme_text)
